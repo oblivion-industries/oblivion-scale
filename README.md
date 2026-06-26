@@ -13,3 +13,10 @@ v0 code
 -down the road, add BLE for phone app compatibility
 
 BOM needs creating
+
+
+===Roadmap===
+Now (v0): working prototype: open-sourcing the body CAD and firmware as a starting point.
+v1: Fully open & sourceable: redesign the body around standard, AliExpress-available parts so anyone can build it cheaply (bottlneck: load cell) and improve performance (bottleneck: ADC)
+v2: Custom PCB: a purpose-built board to shrink it further and improve performance.
+v3: Premium build: a refined aluminum-and-glass version.
