@@ -12,3 +12,4 @@ v0 code
 -will need updating for faster refresh rate
 -down the road, add BLE for phone app compatibility
 
+BOM needs creating
