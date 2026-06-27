@@ -17,8 +17,6 @@ Early **v0 prototype** - open-sourcing the CAD and firmware as a starting point.
 - Update for a faster refresh rate.
 - Later: add BLE for phone-app compatibility.
 
-**BOM** — needs creating.
-
 ## Roadmap
 
 - **Now (v0) - Working prototype:** open-sourcing the body CAD and firmware as a starting point.
