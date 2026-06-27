@@ -8,7 +8,7 @@ This BOM reflects the v0 prototype. It's a working starting point, not a final p
 v0 uses a specific, hard-to-source load cell. Selecting a widely-available equivalent is a goal for v1. Changing the load cell will require changes to the v0 CAD.
 
 **2. Part footprints.**
-The HX711, TTP223, and OLED ship on breakout boards whose dimensions vary between manufacturers. The v0 CAD is built around the specific boards used in the prototype, so boards of a different size may not fit the enclosure.
+The HX711, TTP223, and OLED ship on breakout boards whose dimensions vary between manufacturers. The v0 CAD is built around the specific boards used in the prototype, and are friction fit, so boards of a different size may not fit the enclosure.
 
 ## Parts
 
